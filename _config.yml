@@ -6,13 +6,13 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Khaled's Blog :3
+title: Khaled's Blog 📒
 description: A space to express some thoughts
 github_username: KhaledEssam
 
 # Email and twitter are optional:
 email:
-twitter_username:
+twitter_username: @_IChaled_
 
 # Set this to true to get LaTeX math equation support
 use_math:
