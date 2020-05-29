@@ -16,7 +16,7 @@ But is knowledge just true belief? it seems intuitive to us that knowledge requi
 
 Another important note here is that you need to have "good epistemic reasons". If I hold a gun to your head and tell you that I'm gonna shoot you unless you believe that Paris is the capital of France, then you clearly have a good reason to believe so, but it's a good "prudential" reason. while it's good for your survival, it's not a good way to acquire true beliefs and hence not a good epistemic reason.
 
-In short, we can say that knowledge is true belief that's grounded in good epistemic reasons
+{% include info.html text="In short, we can say that knowledge is true belief that's grounded in good epistemic reasons" %}
 
 # So how does that relate to AI models?
 
